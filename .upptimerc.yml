@@ -3,10 +3,18 @@ owner: MrTorfick # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
+  - name: Dash
+    url: dash.starnode.us
+  - name: Panel
+    url: panel.starnode.us
   - name: Nodo 1
     url: usa1.starnode.us
-  - name: Nodo 10
-    url: usa10.starnode.us
+  - name: Nodo 2
+    url: usa2.starnode.us
+  - name: Nodo 3
+    url: usa3.starnode.us
+  - name: Nodo 4:
+    url: usa4.starnode.us 
     
 
 status-website:
