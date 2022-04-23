@@ -13,7 +13,7 @@ sites:
     url: usa2.starnode.us
   - name: Nodo 3
     url: usa3.starnode.us
-  - name: Nodo 4:
+  - name: Nodo 4
     url: usa4.starnode.us 
     
 
