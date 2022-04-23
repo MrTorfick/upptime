@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nodo-10",
     "status": "down",
-    "uptime": "81.48%",
-    "uptimeDay": "81.48%",
-    "uptimeWeek": "81.48%",
-    "uptimeMonth": "81.48%",
-    "uptimeYear": "81.48%",
+    "uptime": "6.96%",
+    "uptimeDay": "6.96%",
+    "uptimeWeek": "6.96%",
+    "uptimeMonth": "6.96%",
+    "uptimeYear": "6.96%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 0
+      "2022-04-23": 7
     }
   }
 ]
