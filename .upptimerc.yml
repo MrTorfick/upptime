@@ -15,8 +15,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** Estado"
+  name: StarNode
+  introTitle: "Estado **StarNode**"
   introMessage: Estado de los servicios de StarNode
   navbar:
     - title: Estado
