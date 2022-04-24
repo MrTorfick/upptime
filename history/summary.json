@@ -4,18 +4,20 @@
     "url": "usa1.starnode.us",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nodo-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 144,
     "timeDay": 144,
     "timeWeek": 144,
     "timeMonth": 144,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-24": 0
+    }
   },
   {
     "name": "Nodo 2",
@@ -58,19 +60,19 @@
     "url": "usa4.starnode.us",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nodo-4",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "status": "up",
+    "uptime": "97.02%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "97.02%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "97.02%",
+    "time": 145,
+    "timeDay": 145,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2022-04-24": 0
+      "2022-04-24": 13
     }
   }
 ]
