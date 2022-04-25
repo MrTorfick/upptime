@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 151,
+    "timeDay": 150,
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
@@ -58,17 +58,19 @@
     "url": "usa4.starnode.us",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nodo-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1304,
-    "timeDay": 2465,
+    "timeDay": 166,
     "timeWeek": 1304,
     "timeMonth": 1304,
     "timeYear": 1304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-25": 0
+    }
   }
 ]
